@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "終電でつれだして",
+  "base_artist": "RuLu",
+  "createdAt": "2025-12-01T06:55:33.466852Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終電でつれだして (feat. Such)",
+      "artist": "RuLu, Such",
+      "has_synced": false,
+      "path": "select/pl_01_終電でつれだして_(feat._Such)_RuLu,_Such.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "終電でつれだして (feat. Such)",
+      "artist": "RuLu, Such",
+      "has_synced": false,
+      "path": "select/pl_02_終電でつれだして_(feat._Such)_RuLu,_Such.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "終電でつれだして",
+      "artist": "RuLu, Such",
+      "has_synced": false,
+      "path": "select/pl_03_終電でつれだして_RuLu,_Such.txt"
+    }
+  ]
+}
